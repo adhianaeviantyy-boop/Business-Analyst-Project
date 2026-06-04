@@ -1,0 +1,5 @@
+"repayment_status","total_borrower","avg_risk","avg_emission","avg_revenue"
+On_Time,42,51.19,51368.19,1686993619047.62
+Default,4,66.00,70555.00,2000879000000.00
+Late,16,60.63,91806.63,2010387312500.00
+Not_Applicable,13,76.00,103123.15,1493051769230.77

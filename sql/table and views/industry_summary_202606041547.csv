@@ -1,0 +1,11 @@
+"industry","average_risk","avg_risk_category","avg_loan","avg_loan_category","avg_emission","avg_emission_category","total_borrower"
+Retail,36.1429,medium,60342571428.5714,low,13050.5714,low,7
+Logistics,60.7000,medium,134530800000.0000,low,37591.0000,low,10
+Manufacturing,59.9167,medium,150064750000.0000,low,57398.1667,low,12
+Renewable_Energy,15.2000,low,338735800000.0000,medium,3684.4000,low,5
+Coal_Mining,88.6250,high,479649625000.0000,medium,216546.3750,high,8
+Cement,80.2857,high,227734000000.0000,low,135709.4286,medium,7
+Telecommunications,33.0000,low,299596666666.6667,medium,14492.6667,low,3
+Palm_Oil,80.8750,high,211507875000.0000,low,131206.7500,medium,8
+Agriculture,64.2500,medium,120602625000.0000,low,32422.7500,low,8
+Technology,26.5714,low,68368285714.2857,low,5696.5714,low,7
